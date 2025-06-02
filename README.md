@@ -27,17 +27,7 @@ Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadast
 - **Lista de Jogadores:**  
   Mostra todos os jogadores cadastrados, listando as principais informações (nome, posição, número da camisa, etc). Pode conter um link para visualizar detalhes (opcional).
 
-## Exemplo de Estrutura de Dados do Jogador
-
-```json
-{
-  "id": 1,
-  "nome": "João da Silva",
-  "sexo": "Masculino",
-  "idade": 22,
-  "altura": 1.80,
-  "peso": 75,
-  "posicao": "Atacante",
-  "numeroCamisa": 10
-}
-```
+## QR Code:
+<a href = "https://frontend-rinokumura.onrender.com">
+   <img height = 350 widht = 350 src= "sistema-jogador.png">
+</a>
