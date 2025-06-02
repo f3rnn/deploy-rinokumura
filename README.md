@@ -26,8 +26,3 @@ Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadast
 
 - **Lista de Jogadores:**  
   Mostra todos os jogadores cadastrados, listando as principais informações (nome, posição, número da camisa, etc). Pode conter um link para visualizar detalhes (opcional).
-
-## QR Code:
-<a href = "https://frontend-rinokumura.onrender.com">
-   <img height = 350 widht = 350 src= "sistema-jogador.png">
-</a>
